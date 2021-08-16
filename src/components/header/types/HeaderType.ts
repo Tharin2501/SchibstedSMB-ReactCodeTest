@@ -1,0 +1,3 @@
+type HeaderType = {
+    title: string;
+  };
